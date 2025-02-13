@@ -3,6 +3,8 @@
 This is a student management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5** with a **Bootswatch** theme.
 
 ## Table of Contents 
+- [Folder Structure](#Folder-Structure)
+- Demo
 - [Installation](#installation)
 - [Run the application](#run-the-application)
 - [Run the tests](#run-the-tests)
@@ -36,6 +38,10 @@ D:.
     └─── urls.py
     └─── views.py
 ```
+
+## Demo
+![image](https://github.com/user-attachments/assets/a5c6284b-7e4f-4e87-99cc-059d43215847)
+
 
 ## Installation
 
