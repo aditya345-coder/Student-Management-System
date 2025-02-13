@@ -8,6 +8,35 @@ This is a student management system built using **Django 4**, **HTML 5**, **CSS 
 - [Run the tests](#run-the-tests)
 - [View the application](#view-the-application)
 
+## Folder Structure
+```
+D:.
+├───.github
+│   └───workflows
+├───django_project
+│   └─── __init__.py
+│   └─── asgi.py
+│   └─── settings.py
+│   └─── urls.py
+│   └─── wsgi.py
+│ 
+└───students
+    ├───migrations
+    ├───static
+    │   ├───css
+    │   └───images
+    └───templates
+    │   └───students
+    └─── __init__.py
+    └─── admin.py
+    └─── apps.py
+    └─── forms.py
+    └─── models.py
+    └─── tests.py
+    └─── urls.py
+    └─── views.py
+```
+
 ## Installation
 
 ### 1. Create a virtual environment
